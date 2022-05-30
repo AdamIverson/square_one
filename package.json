@@ -1,0 +1,22 @@
+{
+  "name": "square_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamIverson/square_one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamIverson/square_one/issues"
+  },
+  "homepage": "https://github.com/AdamIverson/square_one#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
